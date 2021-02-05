@@ -1,0 +1,29 @@
+.container { 
+  background-image: url("../../images/Creighton_KM_Project.jpg");
+  background-attachment: fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.card {
+  width: 35%;
+  border-radius: 5px;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  background-color: #977351;
+  opacity: 0.9;
+  padding: 20px;
+  color: white;
+  @media (max-width: 500px) {
+    width: 85%;
+  }
+}

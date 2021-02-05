@@ -1,0 +1,27 @@
+/* README Test */
+
+=== Queue/Backlog ===
+
+- Domain name => creightoncontracting.com => after website is deployed
+- SEO/metatags 
+- Dry up code for scrolling feature
+- Dry up SCSS/styling => a lot of repeated code. 
+= buy domain packages such as email addresses, domain protection etc. 
+
+
+=== Pending ===
+
+- github account? - Netlify Account? - IT.creightoncontracting@gmail.com - this afternoon
+
+=== Completed ===
+
+- fit mobile styling => navbar - DONE
+- add icon and title on tab => DONE
+- add some security for pages?
+  => 404 not fount page - DONE
+  => any add on for url goes right back to index page? - DONE
+- setup video changing for mobile and desktop - DONE
+- Add "on" before projects in about section - DONE
+- scrolling feature => DONE
+- switch photo in about section for new photo sent yesterday (photo needs to be black and white) - DONE
+- switch out Dumptruck photo in hero for photo on about section - DONE
