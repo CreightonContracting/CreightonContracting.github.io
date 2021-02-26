@@ -38,6 +38,7 @@ const Hero = () => {
           loop
           autoPlay
           muted
+          playsInline
         >
           <source src={ videoMobile } type="video/mp4" />
         </video>
