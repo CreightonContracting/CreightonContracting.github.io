@@ -1,7 +1,6 @@
 .container { 
   background-image: url("../../images/Creighton_KM_Project-Copy.jpg");
-  // background-color: burlywood;
-  // background-attachment: fixed;
+  background-attachment: fixed;
   background-size: cover;
   background-repeat: no-repeat;
   height: 100vh;
@@ -9,6 +8,9 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  @media (max-width: 500px) {
+    background-attachment: scroll;
+  }
 }
 
 .card {
