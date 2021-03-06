@@ -11,7 +11,6 @@ const Contact = () => {
         <address>
           Phone: <a href="tel:208-866-1160">208-866-1160</a><br/>
           Email: <a href="mailto:creightoncontractingllc@gmail.com">creightoncontractingllc@gmail.com</a><br/>
-          Address: 1848 N Monterossa Way Eagle, Idaho 83616<br/>
         </address>
       </div>
     </div>
