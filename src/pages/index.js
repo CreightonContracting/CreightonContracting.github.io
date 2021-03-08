@@ -11,7 +11,7 @@ const IndexPage = () => {
   return (
     <Layout>
       <SEO 
-        title="Creighton Contracting LLC"
+        // title="Creighton Contracting LLC"
       />
       <Video />
       <About />
