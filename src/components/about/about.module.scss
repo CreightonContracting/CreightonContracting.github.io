@@ -1,5 +1,5 @@
 .container { 
-  background-image: url("../../images/CC_Sewer_Tap_1_Noir.jpg");
+  background-image: url("../../images/Creighton_Harris_1_Original.jpeg");
   background-attachment: fixed;
   background-size: cover;
   background-repeat: no-repeat;
@@ -23,11 +23,16 @@
   align-items: center;
   text-align: center;
   justify-content: center;
-  background-color: #977351;
+  background-color: #e8daa8;
   opacity: 0.9;
   padding: 10px;
-  color: white;
+  color: black;  
   @media (max-width: 500px) {
     width: 85%;
   }
+}
+
+.card h1 {
+  font-family: "CreightonLogo";
+  font-size: 28px;
 }

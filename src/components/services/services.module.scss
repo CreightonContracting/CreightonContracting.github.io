@@ -1,5 +1,5 @@
 .container { 
-  background-image: url("../../images/Creighton_C_Pond-Copy.jpg");
+  background-image: url("../../images/Creighton_CC_1_Cropped.jpg");
   background-attachment: fixed;
   background-size: cover;
   background-repeat: no-repeat;
@@ -22,11 +22,17 @@
   align-items: center;
   text-align: center;
   justify-content: center;
-  background-color: #977351;
-  color: white;
+  background-color: #e8daa8;
+  color: black;
   opacity: 0.9;
   padding: 10px;
   @media (max-width: 500px) {
     width: 85%;
   }
+}
+
+
+.card h1 {
+  font-family: "CreightonLogo";
+  font-size: 28px;
 }

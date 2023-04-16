@@ -5,6 +5,9 @@ import Footer from '../footer/footer';
 import "../../styles/index.scss";
 import layoutStyles from './layout.module.scss'
 
+import "../../fonts/GoodTimesRg-Bold.otf";
+
+
 const Layout = (props) => {
   // const componentDidMount = () => {
   //   document.addEventListener('scroll', this.handleScroll);

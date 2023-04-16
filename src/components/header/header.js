@@ -2,7 +2,9 @@ import React, { useState } from 'react';
 import { Link } from "gatsby";
 
 import headerStyles from './header.module.scss';
-import creightonLogo from "../../images/Creighton_Contracting_Logo_Final_White.png";
+import creightonLogo from "../../images/Creighton Contracting- FInal Beige-01.png";
+
+import "../../fonts/GoodTimesRg-Bold.otf";
 
 const Header = () => {
   const [ click, setClick ] = useState(false);
@@ -89,8 +91,8 @@ const Header = () => {
       </div>
       <div className={ headerStyles.empty }></div>
       <div className={ headerStyles.contact }>
-        <p className={ headerStyles.copy }>Phone: 208-866-1160</p>
-        <p className={ headerStyles.copy }>Email: creightoncontractingllc@gmail.com</p>
+        <p className={ headerStyles.copy }></p>
+        <p className={ headerStyles.copy }></p>
       </div>
     </header>
   )

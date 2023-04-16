@@ -7,7 +7,7 @@
 }
 
 .logo {
-  height: 115px;
+  height: 150px;
   margin-right: 50px;
   margin-bottom: 0px;
 }
@@ -43,10 +43,11 @@
 }
 
 .nav-item {
-  color: #977351;
+  color: #e8daa8;
   font-size: 20px;
   margin-right: 20.8px;
   text-decoration: none;
+  font-family: "CreightonLogo";
 }
 
 .nav-item:hover { 
@@ -59,14 +60,14 @@
 
 .empty {
   width: 30%;
-  color: #977351;
+  color: #e8daa8;
   @media (max-width: 600px) {
     display: none;
   }
 }
 
 .contact {
-  color: #977351;
+  color: #e8daa8;
   font-size: 20px;
   display: flex;
   flex-direction: column;
