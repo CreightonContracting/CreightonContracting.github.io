@@ -48,7 +48,7 @@ const Header = () => {
         <li className={ headerStyles.option }>
           <Link 
             className={ headerStyles.navItem } 
-            activeClassName={ headerStyles.activeNavItem } 
+            //activeClassName={ headerStyles.activeNavItem } 
             to="/"
             onClick={ scrollToTop }
           >
@@ -58,7 +58,7 @@ const Header = () => {
         <li className={ headerStyles.option }>
           <Link 
             className={ headerStyles.navItem } 
-            activeClassName={ headerStyles.activeNavItem } 
+            //activeClassName={ headerStyles.activeNavItem } 
             to="#about"
             onClick={ scrollToAbout }
           >
@@ -68,7 +68,7 @@ const Header = () => {
         <li className={ headerStyles.option }>
           <Link 
             className={ headerStyles.navItem } 
-            activeClassName={ headerStyles.activeNavItem } 
+            //activeClassName={ headerStyles.activeNavItem } 
             to="#services"
             onClick={ scrollToSection }
           >
@@ -78,7 +78,7 @@ const Header = () => {
         <li className={ headerStyles.option }>
           <Link 
             className={ headerStyles.navItem } 
-            activeClassName={ headerStyles.activeNavItem } 
+            //activeClassName={ headerStyles.activeNavItem } 
             to="#contact"
             onClick={ scrollToContact }
           >
